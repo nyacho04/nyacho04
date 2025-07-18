@@ -24,6 +24,8 @@
 <a href="https://twitter.com/Nyacho__"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/nacho._.devita/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/idevita" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/vyyh86tpbxhylavezqsof3hrp">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https:)
 
 ###
