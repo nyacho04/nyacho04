@@ -1,6 +1,7 @@
 
 ### Hello World, im Nacho!
 
+
 #### 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,3 +37,5 @@
 
 ### About.
 Passionate about continuous learning in the tech world, I strive to improve every day and expand my knowledge across different areas. I'm eager to get involved in both artistic and challenging projects, always bringing a creative and unique perspective. I also take pride in paying close attention to detail, ensuring quality and originality in everything I do.
+
+![gif](https://github.com/user-attachments/assets/96530f23-d34c-4d9b-8e5c-9cb9dbcfbb5b)
