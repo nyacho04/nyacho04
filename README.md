@@ -6,6 +6,10 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https:)
+![Discord](https://img.shields.io/badge/Discord-._the.virtuoso._-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+
 
 ###
 
