@@ -39,4 +39,5 @@
 ### About.
 Passionate about continuous learning in the tech world, I strive to improve every day and expand my knowledge across different areas. I'm eager to get involved in both artistic and challenging projects, always bringing a creative and unique perspective. I also take pride in paying close attention to detail, ensuring quality and originality in everything I do.
 
-![gif](https://github.com/user-attachments/assets/1870ebf2-cf2a-48b4-b198-2d002a447104)
+<img src="https://github.com/user-attachments/assets/1870ebf2-cf2a-48b4-b198-2d002a447104" width="400px" />
+
