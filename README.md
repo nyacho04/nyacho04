@@ -34,7 +34,7 @@
 
 
 ###
-
+<img alt="nyacho04's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nyacho04&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866"/>
 <img alt="nyacho04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyacho04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 ### About.
