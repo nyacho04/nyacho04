@@ -1,12 +1,9 @@
+<h3 align="center">Hello World, I'm Nacho!</h3>
+
 <p align="center">
-  <h3>Hello World, I'm Nacho!</h3>
+  Passionate about continuous learning in the tech world, I strive to improve every day and expand my knowledge across different areas. I'm eager to get involved in both artistic and challenging projects, always bringing a creative and unique perspective. I also take pride in paying close attention to detail, ensuring quality and originality in everything I do.
 </p>
-About.
-<p align="center">
-  <p style="max-width: 600px">
-    Passionate about continuous learning in the tech world, I strive to improve every day and expand my knowledge across different areas. I'm eager to get involved in both artistic and challenging projects, always bringing a creative and unique perspective. I also take pride in paying close attention to detail, ensuring quality and originality in everything I do.
-  </p>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,11 +32,11 @@ About.
 </p>
 
 <p align="center">
-  <img alt="nyacho04's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nyacho04&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866"/>
+  <img alt="nyacho04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyacho04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
 <p align="center">
-  <img alt="nyacho04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyacho04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="nyacho04's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nyacho04&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866"/>
 </p>
 
 <p align="center">
