@@ -1,4 +1,5 @@
-<h3 align="center">Hello World, I'm Nacho!</h3>
+<h3 align="center">Hello World, I'm Nacho!</h3> 
+
 
 <p align="center">
   Passionate about continuous learning in the tech world, I strive to improve every day and expand my knowledge across different areas. I'm eager to get involved in both artistic and challenging projects, always bringing a creative and unique perspective. I also take pride in paying close attention to detail, ensuring quality and originality in everything I do.
@@ -13,6 +14,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <a href="https://nyacho04.github.io/NaniPortfolio/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%237877c6.svg?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
 </p>
 
 <p align="center">
