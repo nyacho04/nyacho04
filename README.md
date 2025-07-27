@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <a href="https://nyacho04.github.io/NaniPortfolio/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%237877c6.svg?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
@@ -24,14 +22,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-._the.virtuoso._-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
-
 <p align="center">
+  <a href="https://nyacho04.github.io/NaniPortfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%237877c6.svg?style=for-the-badge&logoColor=white"/></a>
   <a href="mailto:ignacio.devita.4@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/Nyacho__"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/nacho._.devita/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/idevita" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/vyyh86tpbxhylavezqsof3hrp"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nyacho04&label=Visits&color=ff69b4&style=for-the-badge">
