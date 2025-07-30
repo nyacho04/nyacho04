@@ -1,8 +1,7 @@
-<h3 align="Center">Hello World! I'm</h3> 
+<h3 align="center">Hello World, I'm Nacho!</h3> 
 
-![banner](https://github.com/user-attachments/assets/48c017c3-1889-48d4-bcec-14397c8dcc1b)
 
-<p align="Center">
+<p align="center">
   Passionate about continuous learning in the tech world, I strive to improve every day and expand my knowledge across different areas. I'm eager to get involved in both artistic and challenging projects, always bringing a creative and unique perspective. I also take pride in paying close attention to detail, ensuring quality and originality in everything I do.
 </p>
 
